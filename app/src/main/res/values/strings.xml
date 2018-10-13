@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoviesAppKotlin</string>
+
+    <!-- Movies API key-->
+    <string name="api_key">503695767acad7d3a0bbd347e5293747</string>
+
+    <!-- Reactive sample-->
+    <string name="reactive_title">Start RxJava stream</string>
+</resources>

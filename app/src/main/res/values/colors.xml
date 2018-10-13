@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="movie_background_color">#37474F</color>
+    <color name="movie_toolbar_color">#F44336</color>
+    <color name="movie_search_button_color">#3D5AFE</color>
+    <color name="movie_search_button_clicked_color">#283593</color>
+    <color name="movie_search_button_shadow_color">#263238</color>
+    <color name="movie_toolbar_text_color">#EEEEEE</color>
+    <color name="movie_searcher_line_color">#E57373</color>
+</resources>

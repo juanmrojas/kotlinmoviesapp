@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/movie_background_color"
+        android:fitsSystemWindows="true">
+
+        <Toolbar
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@color/movie_toolbar_color"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <android.support.v7.widget.AppCompatEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:imeOptions="actionSearch"
+                android:backgroundTint="@color/movie_searcher_line_color"
+                android:textColor="@color/movie_toolbar_text_color"
+                android:textColorLink="@color/movie_searcher_line_color"
+                android:padding="@dimen/margin_standard_middle"
+                android:inputType="text" />
+
+        </Toolbar>
+    </android.support.constraint.ConstraintLayout>
+</layout>
