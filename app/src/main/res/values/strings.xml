@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">MoviesAppKotlin</string>
 
     <!-- Movies API key-->
@@ -6,4 +7,8 @@
 
     <!-- Reactive sample-->
     <string name="reactive_title">Start RxJava stream</string>
+=======
+    <string name="app_name">KotlinMoviesApp</string>
+    <string name="search_hint">search movies</string>
+>>>>>>> c1b26a1... Movies in grid style
 </resources>

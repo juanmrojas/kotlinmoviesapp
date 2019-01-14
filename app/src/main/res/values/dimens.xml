@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
     <dimen name="margin_standard_middle">12dp</dimen>
     <dimen name="margin_standard_large">18dp</dimen>
     <dimen name="standard_elevation">4dp</dimen>
+=======
+    <!-- margins -->
+    <dimen name="margin_sm">8dp</dimen>
+    <dimen name="margin_md">12dp</dimen>
+    <dimen name="margin_lg">24dp</dimen>
+
+    <dimen name="poster_width">100dp</dimen>
+    <dimen name="poster_height">180dp</dimen>
+>>>>>>> c1b26a1... Movies in grid style
 </resources>
