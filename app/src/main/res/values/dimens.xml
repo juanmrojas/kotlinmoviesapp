@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- margins -->
+    <dimen name="margin_sm">8dp</dimen>
+    <dimen name="margin_md">12dp</dimen>
+    <dimen name="margin_lg">24dp</dimen>
+
+    <dimen name="poster_width">100dp</dimen>
+    <dimen name="poster_height">180dp</dimen>
+</resources>
